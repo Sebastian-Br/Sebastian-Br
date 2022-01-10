@@ -7,7 +7,8 @@ Nowadays, I prefer C# due to the ease with which one can add existing functional
 I strive to be the best at what I do. Anything else leads to boredom and that is painful.
 
 ### Be humble.
-For if you are not, you may never improve.
+For if you are not, you are blind to improvement. There is presently a disdainful concentration of pride circulating in people's vocabularies in all the wrong combinations. Many consider themselves infallible and in their superiority, ignore ,,,TBC,,,. I envy the cooperation that Latin-Americans are capable of. You should (almost) never be proud of yourself.
+
 </br>
 
 ### Loving circles since 2012 :airplane:
