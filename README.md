@@ -1,4 +1,17 @@
-### Hi there 👋
+## Sebastian, Software Developer in :de:
+
+I started as a hobby programmer with a heavy focus on C++ in ~2009 because I liked the feeling of translating thoughts into tangible pieces of code.</br>
+Nowadays, I prefer C# due to the ease with which one can add existing functionality (i.e. NuGet packages) to their project. Notwithstanding, low level languages such as C(++) convey valuable insights into system architecture, memory, performance, and such.
+
+</br>
+
+### Loving circles since 2012 :airplane:
+
+https://user-images.githubusercontent.com/76402928/148708187-7c07f27d-82e2-4282-abff-b0da470a375d.mp4
+
+
+
+
 
 <!--
 **Sebastian-Br/Sebastian-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
