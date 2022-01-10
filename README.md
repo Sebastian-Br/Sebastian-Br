@@ -2,7 +2,12 @@
 
 I started as a hobby programmer with a heavy focus on C++ in ~2009 because I liked the feeling of translating thoughts into tangible pieces of code.</br>
 Nowadays, I prefer C# due to the ease with which one can add existing functionality (i.e. NuGet packages) to their project. Notwithstanding, low level languages such as C(++) convey valuable insights into system architecture, memory, performance, and such.
+</br>
 
+I strive to be the best at what I do. Anything else leads to boredom and that is painful.
+
+### Be humble.
+For if you are not, you may never improve.
 </br>
 
 ### Loving circles since 2012 :airplane:
