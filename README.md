@@ -7,11 +7,16 @@ Nowadays, I prefer C# due to the ease with which one can add existing functional
 I strive to be the best at what I do. Anything else leads to boredom and that is painful.
 
 ### Be humble.
-For if you are not, you are blind to improvement. There is presently a disdainful concentration of pride circulating in people's vocabularies in all the wrong combinations. Many consider themselves infallible and in their superiority, ignore ,,,TBC,,,. I envy the cooperation that Latin-Americans are capable of. You should (almost) never be proud of yourself.
+For if you are not, you are blind to improvement. There is presently a disdainful concentration of pride circulating in people's vocabularies in all the wrong combinations. Many consider themselves infallible and in their superiority, reject the idea that there is anything to be learned from less experienced contemporaries. In this instance, I envy the cooperation among Latin Americans (which is not to say that I understand them or think they are generally superior; I do not). You should (almost) never be proud of yourself; instead, you should empower those around you. You should inspire others to surprise *themselves* by what they are capable of.
+</br>
+### Books:
+Also Sprach Zarathustra (Thus Spoke Zarathustra)</br>
+Jenseits von Gut und Böse (Beyond Good and Evil)</br>
+
 
 </br>
 
-### Loving circles since 2012 :airplane:
+### Thinking in circles since 2012 :airplane:
 
 https://user-images.githubusercontent.com/76402928/148708187-7c07f27d-82e2-4282-abff-b0da470a375d.mp4
 
