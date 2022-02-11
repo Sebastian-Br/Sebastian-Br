@@ -14,9 +14,10 @@ For if you are not, you are blind to improvement. There is presently a disdainfu
 
 ### Thinking in circles since 2013 :airplane:
 
+<!--
 https://user-images.githubusercontent.com/76402928/148708187-7c07f27d-82e2-4282-abff-b0da470a375d.mp4
 
-https://user-images.githubusercontent.com/76402928/149604206-9d0acf5a-eebd-4b78-afe7-bc89b84ab4d3.mp4
+https://user-images.githubusercontent.com/76402928/149604206-9d0acf5a-eebd-4b78-afe7-bc89b84ab4d3.mp4 -->
 
 https://user-images.githubusercontent.com/76402928/149604980-e61bc766-f093-4303-bf18-5b4fb63a1a22.mp4
 
