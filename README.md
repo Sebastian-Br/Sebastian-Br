@@ -7,23 +7,10 @@ Nowadays, I prefer C# due to the ease with which one can add existing functional
 I strive to be the best at what I do. Anything else leads to boredom and that is painful.
 
 ### Be humble.
-For if you are not, you are blind to improvement. There is presently a disdainful concentration of pride circulating in people's vocabularies in all the wrong combinations. Many consider themselves infallible and in their superiority, reject the idea that there is anything to be learned from less experienced contemporaries. In this instance, I envy the cooperation among Latin Americans (which is not to say that I understand them or think they are generally superior). You should (almost) never be proud of yourself; instead, you should empower those around you and make them surprise *themselves* by what they are capable of.
+For if you are not, you are blind to improvement. Many consider themselves infallible and in their superiority, reject the idea that there is anything to be learned from less experienced contemporaries. In this instance, I envy the cooperation among Latin Americans (which is not to say that I understand them). You should (almost) never be proud of yourself; instead, you should empower those around you and make them surprise *themselves* by what they are capable of.
 </br>
 
 </br>
-
-### Thinking in circles since 2013 :airplane:
-
-<!--
-https://user-images.githubusercontent.com/76402928/148708187-7c07f27d-82e2-4282-abff-b0da470a375d.mp4
-
-https://user-images.githubusercontent.com/76402928/149604206-9d0acf5a-eebd-4b78-afe7-bc89b84ab4d3.mp4 -->
-
-https://user-images.githubusercontent.com/76402928/149604980-e61bc766-f093-4303-bf18-5b4fb63a1a22.mp4
-
-March 2014: #1 Digital DFer in Germany
-
-https://user-images.githubusercontent.com/76402928/149606248-e6c712dd-d2c5-4451-b530-3bfe35de0577.mp4
 
 
 
